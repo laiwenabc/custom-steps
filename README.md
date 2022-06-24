@@ -1,2 +1,2 @@
 # custom-steps
-基于el-step修改定制
+基于el-step定制修改
